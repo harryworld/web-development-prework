@@ -13,3 +13,5 @@ You will hear us harp on proper indentation and choices of words and names. The 
 Coding, once you understand the basics is not difficult. But as a project grows, keeping things understandable and maintainable becomes the real challenge.
 
 Writing code is like writing a good essay or story. Everyone can write an essay once they learn the language. Ultimately, to be a master developer, you want to write like [Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway).
+
+Always write your code as if you wrote it for someone else! In a group project, write code as if you were going to disappear, so that other team members could understand you code in seconds, and continue your work easily.
